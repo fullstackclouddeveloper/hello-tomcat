@@ -1,4 +1,7 @@
 # hello-tomcat
+```
+git clone https://github.com/fullstackclouddeveloper/hello-tomcat.git
+```
 
 ```
 docker build -t hello-tomcat .
