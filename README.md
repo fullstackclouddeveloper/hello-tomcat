@@ -5,8 +5,8 @@ git clone https://github.com/fullstackclouddeveloper/hello-tomcat.git
 
 ```
 docker build -t hello-tomcat .
-docker run -p 8000:8080 hello-tomcat
-http://localhost:8000/demo
+docker run -p 8080:8080 hello-tomcat
+http://localhost:8080/demo
 ```
 
 ```
